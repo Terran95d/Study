@@ -14,10 +14,10 @@ if (number < 50) {
 
 switch (num) {
     case 50:
-        console.log('Больше 50');
+        console.log('50');
         break;
     case 40:
-        console.log('Меньше 50');
+        console.log('40');
         break;
     default:
         console.log('Что то пошло не так');
